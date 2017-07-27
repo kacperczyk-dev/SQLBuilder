@@ -1,0 +1,18 @@
+﻿This is a template which gets filled in with data from UPDATE window
+depending on which save btn is clicked. Actual text was removed before
+placing on GitHub.
+
+Database Change Approval Authorization for [CUST.NAME]
+Case [CUST.NAME]
+
+Dear [CUST.NAME]
+
+
+[SQL.SCRIPT]
+
+
+Regards,
+[CONS]
+
+
+
